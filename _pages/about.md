@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a student of CS bachelor at Charles University in Prague interested in programming languages and proof assistants. My favourite languages are Haskell and C++. I use NixOS but am far from understanding it.
+I am a student of CS bachelor at Charles University in Prague interested in programming languages and proof assistants. My favourite languages are Haskell and C++. I use NixOS but am far from full understanding.
 
 Projects
 ======
