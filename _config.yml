@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Ondřej Kubánek"
 title_separator          : "-"
 name                     : &name "Ondřej Kubánek"
-description              : &description "personal description"
+description              : &description "Student of CS bachelor at Charles University in Prague"
 url                      : https://kubaneko.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "kubaneko/kubaneko.github.io"
@@ -81,9 +81,9 @@ analytics:
 # Site Author
 author:
   name             : "Ondřej Kubánek"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  avatar           : "profile.JPG"
+  bio              : "Student of CS bachelor at Charles University in Prague interested in programming languages mainly functional and theory"
+  location         : "Prague"
   employer         :
   pubmed           : 
   googlescholar    : 
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "dhsuwjshs1"
   vine             :
   weibo            :
   xing             :
