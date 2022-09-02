@@ -14,6 +14,8 @@ My work can be found [here](https://github.com/haskell/hackage-server/pull/1091)
 
 ## Future work
 
+In its basic form the project is complete but there are several other improvements that could be made.
+
 - once Reverse dependencies are accepted, they should be added to PackageRank
 - my next goal is to make a cache for PackageRank values and values for freshness calculations, so freshness for dependencies can be calculated efficiently.
 - most downloads ever per month - would enable comparing the popularity of a package presently versus in the past.
