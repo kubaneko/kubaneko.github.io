@@ -10,7 +10,7 @@ tags:
 
 I took part in GSoC in the summer of 2022 with Haskell.org on the Hackage project. The aim of the project was to develop a way to sort heuristically sort packages based on [PackageRank](https://gitlab.com/crates.rs/crates.rs/-/blob/main/ranking/src/lib_ranking.rs) from crates.rs
 
-My work can be found [here](https://github.com/haskell/hackage-server/pull/1091). The work for GSoC ends with the commit [834a12f](https://github.com/haskell/hackage-server/pull/1091/commits/834a12f84938fe24ffd06e2c09af95985dbcf435) and was done under the mentorship of [Gershom Bazerman](http://gbaz.github.io/)
+My work can be found [here](https://github.com/haskell/hackage-server/pull/1091). The work for GSoC ends with the commit [7c36cf7](https://github.com/haskell/hackage-server/pull/1091/commits/7c36cf7e42d8d0a19ba3d9b0c46d56c5cde52d86) and was done under the mentorship of [Gershom Bazerman](http://gbaz.github.io/)
 
 ## Future work
 
