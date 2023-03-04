@@ -15,7 +15,4 @@ Projects
 
 - My bachelor thesis is on improving loop profiling in GCC supervised by [doc. Jan Hubička](https://www.ucw.cz/~hubicka/)
 - I am taking part in [HoTTest Summer School 2022](https://www.uwo.ca/math/faculty/kapulkin/seminars/hottest_summer_school_2022.html)
-- Mastodon verification
-
-<a rel="me" href="https://types.pl/@kubaneko">Mastodon</a>
-
+- My [CV](http://kubaneko.github.io/files/kubaneko_cv.pdf)
