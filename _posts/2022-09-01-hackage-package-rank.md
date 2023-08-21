@@ -31,7 +31,6 @@ Each point in the list loosely corresponds to two weeks of the 12-week project.
 - I mainly finished schoolwork and started to look around the src of hackage and with the help of my mentor compared what was feasible to do with what was available from hackage in contrast to crates.rs
 - I started to gather needed information from hackage about packages (src code, documentation, versions , etc.)
 - I integrated PackageRank into PackageList and changed Browse Feature to be compatible and added co    lumn for PackageRank into the UI
-- I tested the implementation found out that src code retreival does not work and fixed that.
 - I added the readme score (made a custom markdown parser with commonmark)
 - I tuned some parameters, moved PackageRank over to PackageList Feature and handled exceptions.
 
