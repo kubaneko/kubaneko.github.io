@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Ondřej Kubánek"
+title                    : "kubaneko"
 title_separator          : "-"
-name                     : &name "Ondřej Kubánek"
-description              : &description "Student of CS master at Chalmers University of Technology"
+name                     : &name "kubaneko"
+description              : &description "Random person interested in DTT semantics and all the other PL stuff"
 url                      : https://kubaneko.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "kubaneko/kubaneko.github.io"
@@ -80,10 +80,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Ondřej Kubánek"
-  avatar           : "profile.JPG"
-  bio              : "Student of CS masters at Chalmers University of Techology interested in programming languages and proof assistants"
-  location         : "Göteborg"
+  name             : "kubaneko"
+  avatar           :
+  bio              : "Random person interested in DTT semantics and all the other PL stuff"
+  location         :
   employer         :
   pubmed           : 
   googlescholar    : 
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "dhsuwjshs1"
+  twitter          :
   vine             :
   weibo            :
   xing             :
